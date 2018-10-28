@@ -1,4 +1,4 @@
 ﻿  RandomWords.cpp
-c:\users\nycbr\documents\sdl\randomwords\randomwords\randomwords.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\nycbr\documents\sdl\randomwords\randomwords\randomwords.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\nycbr\documents\sdl\randomwords\randomwords\randomwords.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nycbr\documents\sdl\randomwords\randomwords\randomwords.cpp(34): warning C4018: '<': signed/unsigned mismatch
   RandomWords.vcxproj -> C:\Users\nycbr\Documents\SDL\RandomWords\Debug\RandomWords.exe
